@@ -1,0 +1,5 @@
+.virtualenv/
+.vscode/
+.lib/site-packages/
+.Scripts/
+.pyenv.cfg/
